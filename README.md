@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @familyeu
 - 👀 We are a consortium, Running in the FAMILY - Understanding and predicting the intergenerational transmission of mental illness, aimed at better understanding mental health
-- 🌱 I’m currently learning ...
+- 🌱 Check us out at:  https://family-project.eu
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Please reach out to family@erasmusmc.nl for more information!
 
 <!---
 familyeu/familyeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
